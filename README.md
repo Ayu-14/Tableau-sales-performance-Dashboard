@@ -20,11 +20,11 @@ Thid project is interactive Tableau dashboard built using the Sample Superstore 
 - Tableau Public
 - Sample Superstore Dataset
 
+</> Markdown
+
 ## Dashboard Preview
 
 ! [Dashboard](Sales Dashboard.png)
-
-</> Markdown
 
 ## Tableau Public Link
 
