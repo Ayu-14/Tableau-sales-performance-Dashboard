@@ -24,6 +24,8 @@ Thid project is interactive Tableau dashboard built using the Sample Superstore 
 
 ! [Dashboard](Sales Dashboard.png)
 
+</> Markdown
+
 ## Tableau Public Link
 
 https://public.tableau.com/views/SalesDashboard_17801508528990/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
